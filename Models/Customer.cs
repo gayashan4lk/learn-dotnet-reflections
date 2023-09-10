@@ -14,7 +14,7 @@ namespace MyApp.Models
 
 		private string Wealth;
 
-		public void SayHello()
+		public void SayHello(string message)
 		{
 			throw new NotImplementedException();
 		}
